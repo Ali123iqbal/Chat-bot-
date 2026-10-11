@@ -1,0 +1,6 @@
+node_modules
+.next
+data/active.csv
+data/status.json
+data/*.tmp
+.env.local
